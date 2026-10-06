@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Host: monro1casino.vercel.app
+Sitemap: https://monro1casino.vercel.app/sitemap.xml
