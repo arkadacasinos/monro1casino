@@ -82,6 +82,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className={`${_literata.variable} ${_manrope.variable} bg-background`}>
       <head>
+        <meta name="yandex-verification" content="222e6a791179f49f" />
         {/* Слот для дополнительных пользовательских тегов */}
       </head>
       <body className="v8mr-body antialiased">{children}</body>
